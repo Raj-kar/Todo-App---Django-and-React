@@ -1,2 +1,2 @@
 ## WEBSITE -
-For view the live website - [Todo-App](http://tasksnow.pythonanywhere.com/)
+For view the live website - [Todo-App](https://tasksnow.netlify.app/)
