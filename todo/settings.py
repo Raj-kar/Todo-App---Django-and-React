@@ -134,7 +134,7 @@ STATICFILES_DIRS = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://task-now.netlify.app"
+    "https://tasksnow.pythonanywhere.com",
 ]
 
 
